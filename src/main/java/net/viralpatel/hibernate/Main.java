@@ -53,7 +53,7 @@ public class Main {
         List list = query.list();
         System.out.println("Result "+list);
 
-
+        System.out.println("From 1");
 		session.close();
 
 	}
